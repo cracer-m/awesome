@@ -155,6 +155,10 @@
 - [CTF](https://github.com/apsdehal/awesome-ctf)
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
 
+## Database
+
+- [MySQL](https://github.com/shlomi-noach/awesome-mysql)
+
 
 ## License
 
