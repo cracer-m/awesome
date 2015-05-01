@@ -159,6 +159,11 @@
 
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql)
 
+## Other Awesome
+
+- [Awesome lists](https://github.com/jnv/lists)
+- [Awesome](https://github.com/sindresorhus/awesome)
+
 
 ## License
 
